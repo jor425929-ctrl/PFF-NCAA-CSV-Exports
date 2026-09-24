@@ -1,0 +1,1 @@
+- [Python in the pnpm workspace](python-in-pnpm-workspace.md) — use a Replit-managed Python module with pip; the base interpreter may be immutable.
